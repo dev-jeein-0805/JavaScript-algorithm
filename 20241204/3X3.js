@@ -23,3 +23,6 @@ console.log(a * b);
 // console.log(Number(a) * Number(x_2));
 // console.log(Number(a) * Number(x_3));
 // console.log(Number(a) * Number(b));
+
+
+// commit checking
