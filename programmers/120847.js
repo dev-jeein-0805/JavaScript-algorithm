@@ -49,3 +49,7 @@ function solution(numbers) {
 function solution(numbers) {
     return numbers.sort((a,b)=>b-a).slice(0,2).reduce((a,b)=>a*b);
 }
+
+// Math.max(), Math.min() 
+// Function.prototype.apply()
+// Spread Operator(전개 연산자)
